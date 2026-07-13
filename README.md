@@ -1,6 +1,6 @@
 # Python Practice Files — Personal Revision Archive   
 
-> **Note:** This repository is not a curated portfolio project — it's my personal practice archive from learning Python basics, kept here so I can quickly revisit and revise any concept whenever I need to. Expect small, simple files (a few lines each), not polished applications.      
+> **Note:** This repository is not a curated portfolio project — it's my personal practice archive from learning Python basics, kept here so I can quickly revisit and revise any concept whenever I need to. Expect small, simple files (a few lines each), not polished applications.       
 
 ---
 
