@@ -6,7 +6,7 @@
 
 ## What This Is   
 
-A collection of 65 Python files I wrote while working through a Python basics course. I use this repo as a personal reference — when I forget how something works, I come here and re-read my own implementation of it rather than searching the internet.   
+A collection of 65 Python files I wrote while working through a Python basics course. I use this repo as a personal reference — when I forget how something works, I come here and re-read my own implementation of it rather than searching the internet.    
 
 Most files are small. They're not meant to be impressive, just clear enough for me to quickly recall the concept.   
 
