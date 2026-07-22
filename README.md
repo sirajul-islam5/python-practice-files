@@ -14,7 +14,7 @@ Most files are small. They're not meant to be impressive, just clear enough for 
 
 ## File Index by Topic   
 
-### 🔢 Operators   
+### Operators   
 - `Arithmatic Operators.py`   
 - `Assignment Operators.py`   
 - `Relational or Comparison Operators.py`   
@@ -25,19 +25,19 @@ Most files are small. They're not meant to be impressive, just clear enough for 
 
 ---
 
-### 📝 Strings   
+### Strings   
 - `Creating_String.py`   
 - `String_Functions.py`   
 
 ---
 
-### ✂️ Slicing & Indexing   
+### Slicing & Indexing   
 - `Slicing.py`   
 - `Indexing.py`   
 
 ---
 
-### 🔀 Conditionals    
+### Conditionals    
 - `Conditional Statement Using If-Elif-Else.py`   
 - `Conditional Statement Using If-Elif-Else 2.py`   
 - `Conditional Statement for Exam Marks.py`   
@@ -45,7 +45,7 @@ Most files are small. They're not meant to be impressive, just clear enough for 
 
 ---
 
-### 🔁 Loops
+### Loops
 - `Loops - While Loops.py`   
 - `Loops - For Loops.py`   
 - `Loops - Break.py`   
@@ -56,46 +56,46 @@ Most files are small. They're not meant to be impressive, just clear enough for 
 
 ---
 
-### 📋 Lists   
+### Lists   
 - `List - Creating List.py`   
 - `List - List Methods.py`   
 - `List Comprehension.py`   
 
 ---
 
-### 📦 Tuples   
+### Tuples   
 - `Tuple - Creating Tuple.py`   
 - `Tuple - Tuple Methods.py`   
 
 ---
 
-### 📚 Dictionaries   
+### Dictionaries   
 - `Dictionary - Creating Dictionary.py`   
 - `Dictionary - Creating Nested Dictionary.py`   
 - `Dictionary - Dictionary Methods.py`   
 
 ---
 
-### 🔵 Sets   
+### Sets   
 - `Set - Creating Set.py`   
 - `Set - Set Methods.py`   
 
 ---
 
-### ⚙️ Functions & Recursion   
+### Functions & Recursion   
 - `Functions - Creating Functions.py`   
 - `Functions - Types of Functions.py`   
 - `Recursion - Creating Recursion.py`   
 
 ---
 
-### 🗂️ File Handling   
+### File Handling   
 - `File - Basics of File.py`   
 - `O - Open File.py`   
 
 ---
 
-### 🔄 Type Conversion & Misc   
+### Type Conversion & Misc   
 - `Type Conversion.py`   
 - `Input Statement.py`   
 - `FirstProgram.py`   
@@ -104,21 +104,21 @@ Most files are small. They're not meant to be impressive, just clear enough for 
 
 ---
 
-### 🔍 Number Problems   
+### Number Problems   
 - `Finding The Largest Number.py`   
 - `Finding The Number Is Even or Odd.py`   
 - `Finding The Number Which Is Multiple of.py`   
 
 ---
 
-### 🧪 Practice Files   
+### Practice Files   
 General practice and mixed-topic exercises written during and after each course section.   
 
 - `Practice - 01.py` through `Practice - 17.py`    
 
 ---
 
-### 🚀 Mini Projects   
+### Mini Projects   
 Two files that are slightly more complete than the rest — still small, but they combine multiple concepts into one script:   
 
 - **`Project - Guess the Number.py`** — random number guessing game using loops, conditionals, and input handling   
@@ -136,7 +136,7 @@ Two files that are slightly more complete than the rest — still small, but the
 
 ---
 
-## 👤 Author   
+## Author   
 
 **Md. Sirajul Islam**
 - [linkedin.com/in/md-sirajul-islam57](https://linkedin.com/in/md-sirajul-islam57)
